@@ -86,6 +86,7 @@ nav ul li{
 nav ul a{
     text-decoration: none;
     cursor: pointer;
+    color: black;
 }
 
 .header-right{
